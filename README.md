@@ -15,8 +15,6 @@ Image segmentation partitions/segments : Objects. Backgrounds, and Boundaries. I
 * Instance Segmentation
 * Panoptic Segmentation
 <br>
-<img src="https://github.com/zigan/segmentation/assets/15936043/07eeb854-e7fc-48f4-bd1a-d728f11e5bd4.type" width="40%" height="40%">
-<br>
 ## Dataset
 <br>The daset used in this repo is from [The Oxford-IIIT Pet Dataset](https://www.kaggle.com/datasets/julinmaloof/the-oxfordiiit-pet-dataset) . After being annnotated the image became a trimap image. Which is an image with 3 scaled value with respect to the object, boundaries, and background.
 <br>
@@ -26,6 +24,7 @@ Image segmentation partitions/segments : Objects. Backgrounds, and Boundaries. I
 ## Convolution
 <br> An image kernel is a small matrix used in machine learning for 'feature extraction', a technique for determining the most important portions of an image. The process known as convolution.
 <br><img src="https://github.com/zigan/segmentation/assets/15936043/8eed8d17-989d-44fb-bd8e-4279999768d8.type" width="40%" height="40%">
+<br>
 ## Depth-wise Separable Convolution
 <br><img src="https://github.com/zigan/segmentation/assets/15936043/cb358010-4e9c-44b2-91f6-7085033d52ef.type" width="50%" height="50%">
 
